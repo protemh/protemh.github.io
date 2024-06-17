@@ -14,24 +14,24 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: protemh # the main title
+title: koreaapp # the main title
 
 tagline: 실시간 뉴스를 보다 신속하게 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  실시간 뉴스를 보다 신속하게 제공하는 protemh 입니다.
+  실시간 뉴스를 보다 신속하게 제공하는 koreaapp 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://protemh.github.io"
+url: "https://koreaapp.net"
 
 github:
-  username: protemh # change to your github username
+  username: koreaapp # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: protemh
+  name: koreaapp
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
