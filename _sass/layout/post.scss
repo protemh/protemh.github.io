@@ -368,3 +368,55 @@ header {
     margin-right: -0.5rem;
   }
 }
+
+.modoo-button {
+      display: inline-block;
+      width: 100%;
+      max-width: 100%; /* 최대 너비를 조절하세요 */
+      padding: 15px;
+      font-size: 25px;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: none;
+      color: #fff;
+      background-color: #007AFF;
+      border-radius: 8px;
+      border: 2px solid #5f87e7;
+      cursor: pointer;
+      transition: background-color 0.3s, border-color 0.3s;
+      margin: 25px 0; /* 위아래로 10px 마진 추가 */
+
+}
+
+.modoo-button:hover {
+  transform: scale(0.95); /* 마우스 호버 시에 약간 커지는 효과 */
+  background-color: #2460B6;
+  color: #fff;
+  box-shadow: 0 0 15px rgba(0, 122, 255, 0.4); /* 그림자 효과 추가 */
+
+}
+
+.modoo-button:active {
+  background-color: #2460B6;
+  border-color: #2460B6;
+}
+
+.aiosrs-rating-wrap {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+}
+.aiosrs-star-rating-wrap {
+    display: flex;
+    align-items: center;
+}
+.aiosrs-star-rating {
+    font-size: 20px;
+    color: #FFD700; /* Gold color */
+    margin-right: 2px;
+}
+.aiosrs-rating-summary-wrap {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #333;
+}
+
